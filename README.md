@@ -160,7 +160,7 @@ La cohorte de septiembre 2017 alcanzó un LTV excepcional; identificar y replica
 <div align="center">
 
 ### 📉 Evolución de los costos de marketing por canal
-<img src="./images3/Evolucion_de_los_costos.png" width="800">
+<img src="./images3/Evolucion_de_los_costos" width="800">
 
 ### 📢 Gasto en publicidad por fuente
 <img src="./images3/gasto_publicidad_por_fuente.png" width="800">
